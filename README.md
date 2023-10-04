@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ananyarastogi2004/ananyarastogi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing Btech in CSE-AI. 
+- 🌱 I’m currently learning DSA 🤯
+- 👯 I'm enthusiastic about ML , AI and UI/UX Designing.
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+linkedIn - https://www.linkedin.com/in/ananyarastogi2004/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ mail - ananyarastogi.1703@gmail.com
+- 👩‍🎨 I like to do Painting 🎨 , Doodling , and make creative stuffs.
+
+- My Badges Collection
+  
+  [![An image of @ananyarastogi2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyarastogi2004)](https://holopin.io/@ananyarastogi2004)
+

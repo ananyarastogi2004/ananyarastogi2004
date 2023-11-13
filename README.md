@@ -15,7 +15,5 @@
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-- My Badges Collection
-  
-  [![An image of @ananyarastogi2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyarastogi2004)](https://holopin.io/@ananyarastogi2004)
+
 

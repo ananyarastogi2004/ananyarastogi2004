@@ -9,6 +9,9 @@
 ## 🌐 Connect With Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyarastogi2004/) ![Twitter](https://img.shields.io/badge/Twitter-%2523013243.svg?logo=Twitter&logoColor=white&color=grey&link=https%3A%2F%2Ftwitter.com%2FAnanyaRast2004)
 
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyarastogi2004&show_icons=true&theme=merko&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyarastogi2004&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰  My  Tech Stack :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%2523ED8B00.svg?style=for-the-badge&logo=Figma&logoColor=white)

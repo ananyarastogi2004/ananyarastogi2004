@@ -18,11 +18,15 @@
 [![Behance](https://img.shields.io/badge/Behance-%adff2f.svg?&style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/ananyarastogi2004/projects)](https://www.behance.net/ananyarastogi2004/projects)
 
 
-
 ## Github Stats
-[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyarastogi2004&show_icons=true&theme=merko&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyarastogi2004&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyarastogi2004&theme=radical" alt="Profile Summary">
+<div style='display:flex; align-items:center; justify-content:center;' align='center'>
+ <img style="margin-right: 20px;" width="450em" src="https://github-readme-stats.vercel.app/api?username=ananyarastogi2004&show_icons=true&theme=merko&rank_icon=github" >
+ <img style="margin-right: 20px;" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyarastogi2004&layout=compact&theme=dark" >
+ <img style="margin-right: 20px;" width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyarastogi2004&theme=radical" alt="Profile Summary">
+</div>
+
+
+
 
 ## 🧰  My Skills :
 ![Python](https://img.shields.io/badge/python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

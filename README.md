@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Ananya Rastogi</h1>
  
-- 🌱 I’m currently learning DSA 🤯
+- 🌱 I’m currently learning DSA, React, Node.js 🤯
 - 👯 I'm enthusiastic about ML , AI and UI/UX Designing.
 - 👩‍🎨 I like to do Painting 🎨 , Doodling , and make creative stuffs.
 - 🎊I’m looking to collaborate on projects
@@ -30,14 +30,18 @@
 
 ## 🧰  My Skills :
 ![Python](https://img.shields.io/badge/python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white) 
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Flutter](https://img.shields.io/badge/flutter-3670A0?style=for-the-badge&logo=flutter&logoColor=ffdd54)
- ![HTML](https://img.shields.io/badge/HTML-%23B92B27.svg?style=for-the-badge&logo=HTML&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-%23B92B27.svg?style=for-the-badge&logo=Html&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-%2304CC.svg?style=for-the-badge&logo=CSS&logoColor=white) 
  ![Figma](https://img.shields.io/badge/Figma-%2523ED8B00.svg?style=for-the-badge&logo=Figma&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+ ![React](https://img.shields.io/badge/React-%23150458.svg?style=for-the-badge&logo=React&logoColor=white)
+ ![Node](https://img.shields.io/badge/Node-%23013243.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+ ![Express](https://img.shields.io/badge/Express-3670A0.svg?style=for-the-badge&logo=Express&logoColor=white)
+
 
 
 <details>	
